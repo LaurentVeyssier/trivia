@@ -1,5 +1,7 @@
 # TRIVIA Project Documentation
 
+Final project implementation of module 3 "API Development" of the Udacity [Backend Developer with Python](https://www.udacity.com/course/backend-developer-with-python--ud188) 5-module nanodegree.
+
 ## introduction
 
 The trivia app is a project allowing to manage a collection of trivia question-answer pairs following CRUD principles. 
