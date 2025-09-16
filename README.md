@@ -2,6 +2,8 @@
 
 Final project implementation of module 3 "API Development" of the Udacity [Backend Developer with Python](https://www.udacity.com/course/backend-developer-with-python--ud188) 5-module nanodegree.
 
+This is a simple web application that provides an interactive trivia game. The backend is built with Flask, which serves as an API server to handle game logic and user requests. All persistent data, including questions, answers, and user scores, is stored in a PostgreSQL database.
+
 ## introduction
 
 The trivia app is a project allowing to manage a collection of trivia question-answer pairs following CRUD principles. 
